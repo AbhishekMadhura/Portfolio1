@@ -5,6 +5,7 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
+    
     StaffManagementSystemDesc : "The system allows easy access and updating of employee data. It generates timely reports to help monitor employees and support tasks like performance appraisals and promotions",
     StaffManagementSystemGithub : "https://github.com/AbhishekMadhura/StaffManagementSystem",
     StaffManagementSystemWebsite : "https://devanshsahni.github.io/tindog/",
